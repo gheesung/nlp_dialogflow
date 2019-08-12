@@ -1,0 +1,1 @@
+d:\devl\Google\Cloud SDK\cloud_env.bat
