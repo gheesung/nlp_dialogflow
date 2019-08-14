@@ -10,6 +10,7 @@ In this project, I have demostrated a few features:
 * Integration to Google Map
 
 Not all the flow is implemented, the catalog flow has not been implmemented due to time contraints. Future additions like integration to database can be integrated. 
+![Dialog Flow](https://github.com/gheesung/nlp_dialogflow/blob/master/src/assets/dialogflow.jpg?style=centerme)
 
 [Link to the assistant](https://assistant.google.com/services/a/uid/00000018ed94dc65?hl=en)
 
