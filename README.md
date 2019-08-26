@@ -14,4 +14,6 @@ Not all the flow is implemented, the catalog flow has not been implmemented due 
 
 [Link to the assistant](https://assistant.google.com/services/a/uid/00000018ed94dc65?hl=en)
 
+Ack:
+[Emmarex library](https://github.com/Emmarex/dialogflow-fulfillment-python)
 You need to provide me your gmail ID to access the alpha version of the project.
